@@ -71,7 +71,6 @@ const listNote = () => {
 
 
 module.exports = {
-    getNotes: getNotes,
     addNote: addNote,
     removeNote: removeNote,
     listNote: listNote,
