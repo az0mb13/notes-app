@@ -1,0 +1,2 @@
+Written into fileAppend into file
+Append into file
